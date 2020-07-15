@@ -17,7 +17,6 @@ public class CategoryEntity {
 	
 
 	public CategoryEntity(Long id, String name, boolean status) {
-		super();
 		this.id = id;
 		this.name = name;
 		this.status = status;
